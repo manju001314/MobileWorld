@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T20:20:17 IST" name="Default suite" finished-at="2022-06-16T20:20:28 IST" duration-ms="11394">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T20:20:17 IST" name="Default test" finished-at="2022-06-16T20:20:28 IST" duration-ms="11394">
+      <class name="mobileWorld.AllMobiles">
+        <test-method signature="launchBrowser()[pri:1, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:17 IST" name="launchBrowser" finished-at="2022-06-16T20:20:24 IST" duration-ms="6914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="allMobiles()[pri:2, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:24 IST" name="allMobiles" finished-at="2022-06-16T20:20:25 IST" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allMobiles -->
+        <test-method signature="searchLenovo()[pri:3, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="searchLenovo" finished-at="2022-06-16T20:20:25 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLenovo -->
+        <test-method signature="searchSamsung()[pri:4, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="searchSamsung" finished-at="2022-06-16T20:20:25 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSamsung -->
+        <test-method signature="wrongApple()[pri:5, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="wrongApple" finished-at="2022-06-16T20:20:25 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongApple -->
+        <test-method signature="wrongSamsung()[pri:6, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="wrongSamsung" finished-at="2022-06-16T20:20:25 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongSamsung -->
+        <test-method signature="twoCharacter()[pri:7, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="twoCharacter" finished-at="2022-06-16T20:20:25 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoCharacter -->
+        <test-method signature="InvalidMob()[pri:8, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="InvalidMob" finished-at="2022-06-16T20:20:25 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMob -->
+        <test-method signature="order()[pri:9, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:25 IST" name="order" finished-at="2022-06-16T20:20:28 IST" duration-ms="2168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method signature="courseVerify()[pri:10, instance:mobileWorld.AllMobiles@3c407114]" started-at="2022-06-16T20:20:28 IST" name="courseVerify" finished-at="2022-06-16T20:20:28 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseVerify -->
+      </class> <!-- mobileWorld.AllMobiles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
